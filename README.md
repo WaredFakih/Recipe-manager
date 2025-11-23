@@ -5,7 +5,7 @@ A comprehensive React-based web application for managing recipes, planning meals
 ![Recipe Manager](https://img.shields.io/badge/React-18.2.0-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Status](https://img.shields.io/badge/Status-Production%20Ready-success)
 
 ## 🌟 Live Demo
-[Add your deployment link here]
+https://8ecipe.netlify.app
 
 ## 📋 Table of Contents
 - [Features](#features)
